@@ -9,6 +9,9 @@ var axios = require("axios");
 var moment = require("moment");
 var Spotify = require('node-spotify-api');
 
+// access all of the exports in our keys.js file
+var keysNeeded = require("./keys.js");
+
 // Take two arguments.
 // The first will be the commands (i.e. "concert-this", "spotify-this-song", etc.)
 // The second will be the parameter that will be <artist/band name here>, '<song name here>', etc.
@@ -78,8 +81,8 @@ function spotify(p) {
     }
 
     var spotify = new Spotify({
-        id: process.env.SPOTIFY_ID,
-        secret: process.env.SPOTIFY_SECRET
+        id: keysNeeded.spotify.id,
+        secret: keysNeeded.spotify.secret
     });
 
     // GET https://api.spotify.com/v1/search
