@@ -1,1 +1,194 @@
-Title : Toy Story
+
+###########################################12/10/2018 01:37:58
+Command: node liri.js concert-this
+------------ the Bands in Town Artist Events -----------------
+Name of the venue:     The O2
+Venue location:        London, United Kingdom
+Date of the Event:     12/12/2018
+--------------------------------------------------------------
+
+
+###########################################12/10/2018 01:38:04
+Command: node liri.js concert-this The Queen
+------------ the Bands in Town Artist Events -----------------
+Name of the venue:     Horseshoe Tavern
+Venue location:        Toronto, Canada
+Date of the Event:     12/19/2018
+--------------------------------------------------------------
+
+
+###########################################12/10/2018 01:38:12
+Command: node liri.js spotify-this-song
+--------------------- Song from Spotify ----------------------
+Artist(s):                                 Karaoke Box
+The song's name:                           I Saw the Sign (Karaoke Playback with Lead Vocals) [Made Famous by Ace of Base]
+A preview link of the song from Spotify:   https://p.scdn.co/mp3-preview/56ce61443e2a6475875fb9c5ab0bacf46a2e217f?cid=581e7ca0677a43509ab1ff7cd80b7935
+The album that the song is from:           Karaoke Box: Reggae Greatest Hits
+--------------------------------------------------------------
+
+
+###########################################12/10/2018 01:38:20
+Command: node liri.js spotify-this-song November rain
+--------------------- Song from Spotify ----------------------
+Artist(s):                                 Guns N' Roses
+The song's name:                           November Rain
+A preview link of the song from Spotify:   null
+The album that the song is from:           Use Your Illusion I
+--------------------------------------------------------------
+
+
+###########################################12/10/2018 01:38:26
+Command: node liri.js movie-this
+---------------------- Movie Information ----------------------
+Title of the movie:                    Mr. Nobody
+Year the movie came out:               2009
+IMDB Rating of the movie:              R
+Rotten Tomatoes Rating of the movie:   67%
+Country where the movie was produced:  Belgium, Germany, Canada, France, USA, UK
+Language of the movie:                 English, Mohawk
+Plot of the movie:                     A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie:                   Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+--------------------------------------------------------------
+
+
+###########################################12/10/2018 01:38:33
+Command: node liri.js movie-this Toy Story
+---------------------- Movie Information ----------------------
+Title of the movie:                    Toy Story
+Year the movie came out:               1995
+IMDB Rating of the movie:              G
+Rotten Tomatoes Rating of the movie:   100%
+Country where the movie was produced:  USA
+Language of the movie:                 English
+Plot of the movie:                     A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.
+Actors in the movie:                   Tom Hanks, Tim Allen, Don Rickles, Jim Varney
+--------------------------------------------------------------
+
+
+###########################################12/10/2018 01:38:51
+Command: node liri.js do-what-it-says
+--------------------- Song from Spotify ----------------------
+Artist(s):                                 Backstreet Boys
+The song's name:                           I Want It That Way
+A preview link of the song from Spotify:   https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=581e7ca0677a43509ab1ff7cd80b7935
+The album that the song is from:           The Hits--Chapter One
+--------------------------------------------------------------
+
+
+###########################################12/10/2018 01:39:07
+Command: node liri.js do-what-it-says
+---------------------- Movie Information ----------------------
+Title of the movie:                    Gone with the Wind
+Year the movie came out:               1939
+IMDB Rating of the movie:              G
+Rotten Tomatoes Rating of the movie:   92%
+Country where the movie was produced:  USA
+Language of the movie:                 English
+Plot of the movie:                     A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.
+Actors in the movie:                   Thomas Mitchell, Barbara O'Neil, Vivien Leigh, Evelyn Keyes
+--------------------------------------------------------------
+
+
+###########################################12/10/2018 01:39:18
+Command: node liri.js do-what-it-says
+------------ the Bands in Town Artist Events -----------------
+Name of the venue:     Mandalay Bay Events Center
+Venue location:        Las Vegas, United States
+Date of the Event:     12/30/2018
+--------------------------------------------------------------
+
+
+###########################################12/10/2018 02:01:43
+Command: node liri.js concert-this
+------------ the Bands in Town Artist Events -----------------
+Name of the venue:     The O2
+Venue location:        London, United Kingdom
+Date of the Event:     12/12/2018
+--------------------------------------------------------------
+
+
+###########################################12/10/2018 02:01:59
+Command: node liri.js concert-this The Queen
+------------ the Bands in Town Artist Events -----------------
+Name of the venue:     Horseshoe Tavern
+Venue location:        Toronto, Canada
+Date of the Event:     12/19/2018
+--------------------------------------------------------------
+
+
+###########################################12/10/2018 02:02:25
+Command: node liri.js spotify-this-song
+--------------------- Song from Spotify ----------------------
+Artist(s):                                 Karaoke Box
+The song's name:                           I Saw the Sign (Karaoke Playback with Lead Vocals) [Made Famous by Ace of Base]
+A preview link of the song from Spotify:   https://p.scdn.co/mp3-preview/56ce61443e2a6475875fb9c5ab0bacf46a2e217f?cid=581e7ca0677a43509ab1ff7cd80b7935
+The album that the song is from:           Karaoke Box: Reggae Greatest Hits
+--------------------------------------------------------------
+
+
+###########################################12/10/2018 02:02:39
+Command: node liri.js spotify-this-song November rain
+--------------------- Song from Spotify ----------------------
+Artist(s):                                 Guns N' Roses
+The song's name:                           November Rain
+A preview link of the song from Spotify:   null
+The album that the song is from:           Use Your Illusion I
+--------------------------------------------------------------
+
+
+###########################################12/10/2018 02:02:50
+Command: node liri.js movie-this
+---------------------- Movie Information ----------------------
+Title of the movie:                    Mr. Nobody
+Year the movie came out:               2009
+IMDB Rating of the movie:              R
+Rotten Tomatoes Rating of the movie:   67%
+Country where the movie was produced:  Belgium, Germany, Canada, France, USA, UK
+Language of the movie:                 English, Mohawk
+Plot of the movie:                     A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie:                   Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+--------------------------------------------------------------
+
+
+###########################################12/10/2018 02:02:58
+Command: node liri.js movie-this Toy story
+---------------------- Movie Information ----------------------
+Title of the movie:                    Toy Story
+Year the movie came out:               1995
+IMDB Rating of the movie:              G
+Rotten Tomatoes Rating of the movie:   100%
+Country where the movie was produced:  USA
+Language of the movie:                 English
+Plot of the movie:                     A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.
+Actors in the movie:                   Tom Hanks, Tim Allen, Don Rickles, Jim Varney
+--------------------------------------------------------------
+
+
+###########################################12/10/2018 02:03:17
+Command: node liri.js do-what-it-says
+--------------------- Song from Spotify ----------------------
+Artist(s):                                 Backstreet Boys
+The song's name:                           I Want It That Way
+A preview link of the song from Spotify:   https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=581e7ca0677a43509ab1ff7cd80b7935
+The album that the song is from:           The Hits--Chapter One
+--------------------------------------------------------------
+
+
+###########################################12/10/2018 02:03:30
+Command: node liri.js do-what-it-says
+--------------------- Song from Spotify ----------------------
+Artist(s):                                 Backstreet Boys
+The song's name:                           I Want It That Way
+A preview link of the song from Spotify:   https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=581e7ca0677a43509ab1ff7cd80b7935
+The album that the song is from:           The Hits--Chapter One
+--------------------------------------------------------------
+
+
+###########################################12/10/2018 02:03:43
+Command: node liri.js do-what-it-says
+------------ the Bands in Town Artist Events -----------------
+Name of the venue:     Mandalay Bay Events Center
+Venue location:        Las Vegas, United States
+Date of the Event:     12/30/2018
+--------------------------------------------------------------
+
