@@ -63,6 +63,5 @@ This will show the information whatever random.txt has. Edit the text in random.
 
 LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
-##### For the reference you might need to see "execution.webm" file.
-
-![Image of execute](./execution.webm)
+## Demo Videos
+* (https://drive.google.com/file/d/1-7GiTUbvXTX1vKQ5IlJeh6s4CtcPeY8d/view)
